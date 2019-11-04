@@ -1,9 +1,24 @@
 .row{
   text-align:center;
-  
+
 }
 #choices{
   display:flex;
   justify-content:space-between;
-  
+
+}
+body {
+    background:url("https://media0.giphy.com/media/Pok6284jGzyGA/source.gif");
+}
+h1 {
+    color: white;
+}
+h4 {
+    color:white;
+}
+h3 {
+    color: white;
+}
+img {
+    width: 35%;
 }
